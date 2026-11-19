@@ -12,7 +12,7 @@
 
 I am a **Data & Software QA Engineer** with **4.5+ years of experience** validating AI-driven platforms, embedded systems, real-time data workflows, and ETL pipelines. I hold a **B.Sc. in Computer Science** along with advanced certifications from **Bar-Ilan University** in **Data Science & AI** and **Autonomous Agentic AI (Certified Agentic AI Specialist)**.
 
-- 🔬 **What I Do:** End-to-End (E2E) System & Embedded Validation, QA Automation (`Pytest`, `Selenium`), Data & ETL Pipeline QA, SQL & REST API Validation, and Multi-Agent AI Evaluation & Governance.
+- 🔬 **What I Do:** End-to-End (E2E) System & Software Embedded Validation, QA Automation (`Pytest`, `Selenium`), Data & ETL Pipeline QA, SQL & REST API Validation, and Multi-Agent AI Evaluation & Governance.
 - 🤖 **Agentic AI & Quality Engineering:** Passionate about building and validating fail-closed multi-agent workflows (`Ollama`, `Claude`, `OpenAI Codex`), accelerating defect root-cause analysis (RCA), and safeguarding data integrity across complex production systems.
 - 🤝 **Track Record:** Embedded SQA ownership at **Cardo Systems Ltd.** (driving a **40% increase** in development velocity & quality impact), FDA-cleared AI medical imaging validation at **Scopio Labs**, and mission-critical data/ML pipeline QA in the **IDF / IAF (Prisma & Mofet Units)** (reducing production failures by **20%**).
 
